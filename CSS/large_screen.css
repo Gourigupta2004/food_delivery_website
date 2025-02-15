@@ -1,0 +1,7 @@
+#home{
+    height: 310;
+}
+
+#home::before{
+    height: 450px;
+}
